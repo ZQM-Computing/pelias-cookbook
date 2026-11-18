@@ -35,6 +35,8 @@ Developers who run their own geocoder instead of a hosted API.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-compose-deploy` | Deploying Pelias services with Compose |
